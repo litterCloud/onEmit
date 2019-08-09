@@ -8,3 +8,6 @@
 - removeAllListener
 - emit
 - getListenList
+
+## deadTime
+2019.8.11
