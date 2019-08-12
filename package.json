@@ -1,0 +1,31 @@
+{
+  "name": "onemit",
+  "version": "1.0.0",
+  "description": "事件发布订阅",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litterCloud/onEmit.git"
+  },
+  "keywords": [
+    "事件发布订阅"
+  ],
+  "author": "dongjingfeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/litterCloud/onEmit/issues"
+  },
+  "homepage": "https://github.com/litterCloud/onEmit#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "ora": "^3.4.0",
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3",
+    "webpack": "^4.39.1"
+  }
+}
